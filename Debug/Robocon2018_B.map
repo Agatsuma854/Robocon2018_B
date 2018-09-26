@@ -232,168 +232,34 @@ __lock___sfp_recursive_mutex
 
 Discarded input sections
 
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .group         0x00000000        0x8 ./Move/MotorBaseCtrl.o
- .text          0x00000000        0x0 ./Move/MotorBaseCtrl.o
- .data          0x00000000        0x0 ./Move/MotorBaseCtrl.o
- .bss           0x00000000        0x0 ./Move/MotorBaseCtrl.o
- .text._ZN13MotorBaseCtrlD2Ev
-                0x00000000        0x2 ./Move/MotorBaseCtrl.o
- .text._ZN13MotorBaseCtrlD0Ev
-                0x00000000        0xc ./Move/MotorBaseCtrl.o
- .text._ZN13MotorBaseCtrlC2Ev
-                0x00000000        0xc ./Move/MotorBaseCtrl.o
- .rodata._ZTV13MotorBaseCtrl
-                0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_info    0x00000000     0x1d29 ./Move/MotorBaseCtrl.o
- .debug_abbrev  0x00000000      0x3b0 ./Move/MotorBaseCtrl.o
- .debug_loc     0x00000000       0x1e ./Move/MotorBaseCtrl.o
+ .group         0x00000000        0x8 ./Move/SimulProcessor.o
+ .text          0x00000000        0x0 ./Move/SimulProcessor.o
+ .data          0x00000000        0x0 ./Move/SimulProcessor.o
+ .bss           0x00000000        0x0 ./Move/SimulProcessor.o
+ .text._ZN14SimulProcessorD2Ev
+                0x00000000        0x2 ./Move/SimulProcessor.o
+ .text._ZN14SimulProcessorD0Ev
+                0x00000000        0xc ./Move/SimulProcessor.o
+ .text._ZN14SimulProcessorC2Ev
+                0x00000000        0xc ./Move/SimulProcessor.o
+ .text._ZN14SimulProcessor12processSimulEiPd
+                0x00000000        0x2 ./Move/SimulProcessor.o
+ .rodata._ZTV14SimulProcessor
+                0x00000000       0x10 ./Move/SimulProcessor.o
+ .debug_info    0x00000000      0x231 ./Move/SimulProcessor.o
+ .debug_abbrev  0x00000000      0x1b0 ./Move/SimulProcessor.o
+ .debug_loc     0x00000000       0x1e ./Move/SimulProcessor.o
  .debug_aranges
-                0x00000000       0x30 ./Move/MotorBaseCtrl.o
- .debug_ranges  0x00000000       0x20 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x5fc ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x9d0 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x9a ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x1c ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x3a ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x22 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x87 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x51 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0xef ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x6a ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x1df ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x34 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0xc91 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x2c7 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x17 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x9a ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x28 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x143 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x3ca ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x16d ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x58 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x35 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x9c ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x16 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x35 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x58 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x1f ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x43 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x20 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x187 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x34c ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x16 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x29 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0xea ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x1c ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x1c ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x52 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x40 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x40 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0xd7 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x16 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x18b ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x123 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x16 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x8e ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x18 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x1da ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0xf4 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x16 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x41 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x3a ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x1da ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000      0x128 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x7c ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x4c ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x10 ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x5e ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x2e ./Move/MotorBaseCtrl.o
- .debug_macro   0x00000000       0x28 ./Move/MotorBaseCtrl.o
- .debug_line    0x00000000      0xc57 ./Move/MotorBaseCtrl.o
- .debug_str     0x00000000    0x11137 ./Move/MotorBaseCtrl.o
- .comment       0x00000000       0x80 ./Move/MotorBaseCtrl.o
- .debug_frame   0x00000000       0x48 ./Move/MotorBaseCtrl.o
+                0x00000000       0x38 ./Move/SimulProcessor.o
+ .debug_ranges  0x00000000       0x28 ./Move/SimulProcessor.o
+ .debug_macro   0x00000000       0x25 ./Move/SimulProcessor.o
+ .debug_macro   0x00000000      0x9d0 ./Move/SimulProcessor.o
+ .debug_line    0x00000000      0x13a ./Move/SimulProcessor.o
+ .debug_str     0x00000000     0x2aae ./Move/SimulProcessor.o
+ .comment       0x00000000       0x80 ./Move/SimulProcessor.o
+ .debug_frame   0x00000000       0x58 ./Move/SimulProcessor.o
  .ARM.attributes
-                0x00000000       0x33 ./Move/MotorBaseCtrl.o
+                0x00000000       0x33 ./Move/SimulProcessor.o
  .group         0x00000000        0x8 ./main.o
  .group         0x00000000        0x8 ./main.o
  .group         0x00000000        0x8 ./main.o
@@ -467,74 +333,6 @@ Discarded input sections
  .data          0x00000000        0x0 ./main.o
  .bss           0x00000000        0x0 ./main.o
  .debug_macro   0x00000000      0x9d0 ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x9a ./main.o
- .debug_macro   0x00000000       0x1c ./main.o
- .debug_macro   0x00000000       0x3a ./main.o
- .debug_macro   0x00000000       0x22 ./main.o
- .debug_macro   0x00000000       0x87 ./main.o
- .debug_macro   0x00000000       0x51 ./main.o
- .debug_macro   0x00000000       0xef ./main.o
- .debug_macro   0x00000000       0x6a ./main.o
- .debug_macro   0x00000000      0x1df ./main.o
- .debug_macro   0x00000000       0x34 ./main.o
- .debug_macro   0x00000000      0xc91 ./main.o
- .debug_macro   0x00000000      0x2c7 ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x17 ./main.o
- .debug_macro   0x00000000       0x9a ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x28 ./main.o
- .debug_macro   0x00000000      0x143 ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000      0x3ca ./main.o
- .debug_macro   0x00000000      0x16d ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x58 ./main.o
- .debug_macro   0x00000000       0x35 ./main.o
- .debug_macro   0x00000000       0x9c ./main.o
- .debug_macro   0x00000000       0x16 ./main.o
- .debug_macro   0x00000000       0x35 ./main.o
- .debug_macro   0x00000000       0x58 ./main.o
- .debug_macro   0x00000000       0x1f ./main.o
- .debug_macro   0x00000000       0x43 ./main.o
- .debug_macro   0x00000000       0x20 ./main.o
- .debug_macro   0x00000000      0x187 ./main.o
- .debug_macro   0x00000000      0x34c ./main.o
- .debug_macro   0x00000000       0x16 ./main.o
- .debug_macro   0x00000000       0x29 ./main.o
- .debug_macro   0x00000000       0xea ./main.o
- .debug_macro   0x00000000       0x1c ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x1c ./main.o
- .debug_macro   0x00000000       0x52 ./main.o
- .debug_macro   0x00000000       0x40 ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x40 ./main.o
- .debug_macro   0x00000000       0xd7 ./main.o
- .debug_macro   0x00000000       0x16 ./main.o
- .debug_macro   0x00000000      0x18b ./main.o
- .debug_macro   0x00000000      0x123 ./main.o
- .debug_macro   0x00000000       0x16 ./main.o
- .debug_macro   0x00000000       0x8e ./main.o
- .debug_macro   0x00000000       0x18 ./main.o
- .debug_macro   0x00000000      0x1da ./main.o
- .debug_macro   0x00000000       0xf4 ./main.o
- .debug_macro   0x00000000       0x16 ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x41 ./main.o
- .debug_macro   0x00000000       0x3a ./main.o
- .debug_macro   0x00000000      0x1da ./main.o
- .debug_macro   0x00000000      0x128 ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x7c ./main.o
- .debug_macro   0x00000000       0x4c ./main.o
- .debug_macro   0x00000000       0x10 ./main.o
- .debug_macro   0x00000000       0x5e ./main.o
- .debug_macro   0x00000000       0x2e ./main.o
- .debug_macro   0x00000000       0x28 ./main.o
  .text          0x00000000        0x0 C:/Users/Mayoi/Documents/MCUXpressoIDE_10.1.0_589/workspace/Robocon2018_B/mbed/TARGET_LPC1768/TOOLCHAIN_GCC_CR/board.o
  .data          0x00000000        0x0 C:/Users/Mayoi/Documents/MCUXpressoIDE_10.1.0_589/workspace/Robocon2018_B/mbed/TARGET_LPC1768/TOOLCHAIN_GCC_CR/board.o
  .bss           0x00000000        0x0 C:/Users/Mayoi/Documents/MCUXpressoIDE_10.1.0_589/workspace/Robocon2018_B/mbed/TARGET_LPC1768/TOOLCHAIN_GCC_CR/board.o
@@ -1957,7 +1755,7 @@ RamAHB_Eth       0x20080000         0x00004000         xrw
 
 Linker script and memory map
 
-LOAD ./Move/MotorBaseCtrl.o
+LOAD ./Move/SimulProcessor.o
 LOAD ./main.o
 LOAD C:/Users/Mayoi/Documents/MCUXpressoIDE_10.1.0_589/workspace/Robocon2018_B/mbed/TARGET_LPC1768/TOOLCHAIN_GCC_CR/board.o
 LOAD C:/Users/Mayoi/Documents/MCUXpressoIDE_10.1.0_589/workspace/Robocon2018_B/mbed/TARGET_LPC1768/TOOLCHAIN_GCC_CR/cmsis_nvic.o
@@ -2109,10 +1907,10 @@ END GROUP
  .v4_bx         0x00000358        0x0 linker stubs
 
 .iplt           0x00000358        0x0
- .iplt          0x00000358        0x0 ./Move/MotorBaseCtrl.o
+ .iplt          0x00000358        0x0 ./Move/SimulProcessor.o
 
 .rel.dyn        0x00000358        0x0
- .rel.iplt      0x00000358        0x0 ./Move/MotorBaseCtrl.o
+ .rel.iplt      0x00000358        0x0 ./Move/SimulProcessor.o
 
 .eh_frame       0x00000358        0x0
  .eh_frame      0x00000358        0x0 c:/nxp/mcuxpressoide_10.1.0_589/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\crtbegin.o
@@ -2144,7 +1942,7 @@ END GROUP
                 0x100000c8                _edata = .
 
 .igot.plt       0x100000c8        0x0 load address 0x00000358
- .igot.plt      0x100000c8        0x0 ./Move/MotorBaseCtrl.o
+ .igot.plt      0x100000c8        0x0 ./Move/SimulProcessor.o
 
 .jcr            0x100000c8        0x0 load address 0x00000358
  .jcr           0x100000c8        0x0 c:/nxp/mcuxpressoide_10.1.0_589/ide/tools/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\crtbegin.o
@@ -2185,8 +1983,76 @@ OUTPUT(Robocon2018_B.axf elf32-littlearm)
 .debug_ranges   0x00000000       0x10
  .debug_ranges  0x00000000       0x10 ./main.o
 
-.debug_macro    0x00000000      0x5f1
+.debug_macro    0x00000000     0x383a
  .debug_macro   0x00000000      0x5f1 ./main.o
+ .debug_macro   0x000005f1       0x10 ./main.o
+ .debug_macro   0x00000601       0x10 ./main.o
+ .debug_macro   0x00000611       0x9a ./main.o
+ .debug_macro   0x000006ab       0x1c ./main.o
+ .debug_macro   0x000006c7       0x3a ./main.o
+ .debug_macro   0x00000701       0x22 ./main.o
+ .debug_macro   0x00000723       0x87 ./main.o
+ .debug_macro   0x000007aa       0x51 ./main.o
+ .debug_macro   0x000007fb       0xef ./main.o
+ .debug_macro   0x000008ea       0x6a ./main.o
+ .debug_macro   0x00000954      0x1df ./main.o
+ .debug_macro   0x00000b33       0x34 ./main.o
+ .debug_macro   0x00000b67      0xc91 ./main.o
+ .debug_macro   0x000017f8      0x2c7 ./main.o
+ .debug_macro   0x00001abf       0x10 ./main.o
+ .debug_macro   0x00001acf       0x17 ./main.o
+ .debug_macro   0x00001ae6       0x9a ./main.o
+ .debug_macro   0x00001b80       0x10 ./main.o
+ .debug_macro   0x00001b90       0x28 ./main.o
+ .debug_macro   0x00001bb8      0x143 ./main.o
+ .debug_macro   0x00001cfb       0x10 ./main.o
+ .debug_macro   0x00001d0b      0x3ca ./main.o
+ .debug_macro   0x000020d5      0x16d ./main.o
+ .debug_macro   0x00002242       0x10 ./main.o
+ .debug_macro   0x00002252       0x58 ./main.o
+ .debug_macro   0x000022aa       0x35 ./main.o
+ .debug_macro   0x000022df       0x9c ./main.o
+ .debug_macro   0x0000237b       0x16 ./main.o
+ .debug_macro   0x00002391       0x35 ./main.o
+ .debug_macro   0x000023c6       0x58 ./main.o
+ .debug_macro   0x0000241e       0x1f ./main.o
+ .debug_macro   0x0000243d       0x43 ./main.o
+ .debug_macro   0x00002480       0x20 ./main.o
+ .debug_macro   0x000024a0      0x187 ./main.o
+ .debug_macro   0x00002627      0x34c ./main.o
+ .debug_macro   0x00002973       0x16 ./main.o
+ .debug_macro   0x00002989       0x29 ./main.o
+ .debug_macro   0x000029b2       0xea ./main.o
+ .debug_macro   0x00002a9c       0x1c ./main.o
+ .debug_macro   0x00002ab8       0x10 ./main.o
+ .debug_macro   0x00002ac8       0x10 ./main.o
+ .debug_macro   0x00002ad8       0x1c ./main.o
+ .debug_macro   0x00002af4       0x52 ./main.o
+ .debug_macro   0x00002b46       0x40 ./main.o
+ .debug_macro   0x00002b86       0x10 ./main.o
+ .debug_macro   0x00002b96       0x40 ./main.o
+ .debug_macro   0x00002bd6       0xd7 ./main.o
+ .debug_macro   0x00002cad       0x16 ./main.o
+ .debug_macro   0x00002cc3      0x18b ./main.o
+ .debug_macro   0x00002e4e      0x123 ./main.o
+ .debug_macro   0x00002f71       0x16 ./main.o
+ .debug_macro   0x00002f87       0x8e ./main.o
+ .debug_macro   0x00003015       0x18 ./main.o
+ .debug_macro   0x0000302d      0x1da ./main.o
+ .debug_macro   0x00003207       0xf4 ./main.o
+ .debug_macro   0x000032fb       0x16 ./main.o
+ .debug_macro   0x00003311       0x10 ./main.o
+ .debug_macro   0x00003321       0x41 ./main.o
+ .debug_macro   0x00003362       0x3a ./main.o
+ .debug_macro   0x0000339c      0x1da ./main.o
+ .debug_macro   0x00003576      0x128 ./main.o
+ .debug_macro   0x0000369e       0x10 ./main.o
+ .debug_macro   0x000036ae       0x7c ./main.o
+ .debug_macro   0x0000372a       0x4c ./main.o
+ .debug_macro   0x00003776       0x10 ./main.o
+ .debug_macro   0x00003786       0x5e ./main.o
+ .debug_macro   0x000037e4       0x2e ./main.o
+ .debug_macro   0x00003812       0x28 ./main.o
 
 .debug_line     0x00000000      0xbc3
  .debug_line    0x00000000      0xbc3 ./main.o

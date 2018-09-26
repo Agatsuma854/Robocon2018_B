@@ -4,13 +4,13 @@
 
 # Add inputs and outputs from these tool invocations to the build variables 
 CPP_SRCS += \
-../Move/MotorBaseCtrl.cpp 
+../Move/SimulProcessor.cpp 
 
 OBJS += \
-./Move/MotorBaseCtrl.o 
+./Move/SimulProcessor.o 
 
 CPP_DEPS += \
-./Move/MotorBaseCtrl.d 
+./Move/SimulProcessor.d 
 
 
 # Each subdirectory must supply rules for building sources it contributes
