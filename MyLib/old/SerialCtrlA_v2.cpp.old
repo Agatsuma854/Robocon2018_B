@@ -1,0 +1,72 @@
+/*SerialCtrl_v1.cpp*/
+#include <MyLib/old/SerialCtrlA_v2.h>
+
+// 宣言時にserialのポインタ持ってくるよう
+SerialCtrl::SerialCtrl(Serial *sp){
+	_serial = sp;
+}
+
+//ボーレートの指定用
+void SerialCtrl::setBaud(){
+	setBaud(38400);
+	cleanArray();
+}
+void SerialCtrl::setBaud(int a){
+	_serial->baud(a);
+}
+
+// コントローラの値を全て配列に代入
+bool SerialCtrl::get(){
+	for(int i = 0;i < 24;i++){
+		if(input() == LEAD){
+			for(int k = 0;k < 10;k++){
+				data[k] = input();
+			}
+			if(SUMcheck()){
+				_Func();
+				return true;
+			}
+		}
+	}
+	_FailFunc();
+	return false;
+}
+unsigned char SerialCtrl::input(){
+	timer.start();
+	timer.reset();
+	while(timer.read_ms() < TIME_MAX){
+		if(_serial->readable()){
+			return _serial->getc();
+		}
+	}
+	return 0;
+}
+bool SerialCtrl::SUMcheck(){
+	sum = 0;
+	for(int jk = 0;jk < 8;jk++){
+		sum += data[jk];
+	}
+	if(sum == data[8] && data[9] == END){
+		return true;
+	}
+
+	return false;
+}
+
+// コントローラのデータを得るための関数
+unsigned char SerialCtrl::getData(int a){
+	if((a >= LX)&&(a <= BA2)){
+		return data[a];
+	}else{
+		return 0;
+	}
+}
+
+// 通信成功時に実行するメイン関数の関数をかくのう
+void SerialCtrl::Func( void (*func)(void) ) {
+	_Func = func;
+}
+// 通信失敗時に実行するメイン関数の関数をかくのう
+void SerialCtrl::FailFunc( void (*func)(void) ) {
+	_FailFunc = func;
+}
